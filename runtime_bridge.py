@@ -1,0 +1,1 @@
+This would be your core module file.
