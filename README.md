@@ -35,4 +35,4 @@ sh solodev_portable_launcher.sh
 python3 runtime_bridge.py <agent_name>
 
 
-<!-- trigger auto-release -->
+chore: trigger semantic-release
