@@ -33,3 +33,6 @@ sh solodev_portable_launcher.sh
 
 # Or trigger an agent manually:
 python3 runtime_bridge.py <agent_name>
+
+
+<!-- trigger auto-release -->
